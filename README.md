@@ -1,4 +1,4 @@
-Bitcoin Trading Project from Fall 2022
+# Bitcoin Trading Project from Fall 2022
 
 
 
