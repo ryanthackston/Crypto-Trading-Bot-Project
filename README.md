@@ -1,4 +1,4 @@
-## Bitcoin Trading Project from Fall 2022
+## Bitcoin Trading Bot using ResNet with Squeeze Excitation Project from Fall 2022
 
 Using Bitcoin Price Data from Bitfinex Exchange
 
